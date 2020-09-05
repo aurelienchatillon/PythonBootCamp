@@ -1,0 +1,630 @@
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14834
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : rokt-test
+Description : Test to list repos from GitHub sorted by number of stars 
+Stars : 0
+Name : github-repos-nodejs-api
+Description : Node.js API for getting list of GitHub repositories sorted by number of stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14834
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : go-githubapiv4query-example
+Description : GitHub API v4 on Go (oauth2 and githubv4) - sort repo by stars example 
+Stars : 0
+Name : robot_space_shooter
+Description : Not many robots, neither stars, but it's sort of a shooter.
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14834
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : rokt-test
+Description : Test to list repos from GitHub sorted by number of stars 
+Stars : 0
+Name : github-repos-nodejs-api
+Description : Node.js API for getting list of GitHub repositories sorted by number of stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14834
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : rokt-test
+Description : Test to list repos from GitHub sorted by number of stars 
+Stars : 0
+Name : github-repos-nodejs-api
+Description : Node.js API for getting list of GitHub repositories sorted by number of stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14834
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : go-githubapiv4query-example
+Description : GitHub API v4 on Go (oauth2 and githubv4) - sort repo by stars example 
+Stars : 0
+Name : robot_space_shooter
+Description : Not many robots, neither stars, but it's sort of a shooter.
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14834
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : go-githubapiv4query-example
+Description : GitHub API v4 on Go (oauth2 and githubv4) - sort repo by stars example 
+Stars : 0
+Name : robot_space_shooter
+Description : Not many robots, neither stars, but it's sort of a shooter.
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly. 
+Stars : 14835
+Name : Top-Deep-Learning
+Description :  Top 200 deep learning Github repositories sorted by the number of stars.
+Stars : 1073
+Name : Trending-Deep-Learning
+Description : Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+Stars : 491
+Name : landscape
+Description : 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
+Stars : 6711
+Name : ghtopdep
+Description : :star: CLI tool for sorting dependents repo by stars
+Stars : 51
+Name : sort-awesome-lists
+Description : Sorts awesome lists by number of stars in each GitHub repository
+Stars : 44
+Name : meaningful-forks
+Description : Sort Github fork lists by the number of stars and commits ahead from the source repo.
+Stars : 9
+Name : lfai-landscape
+Description : 🌄Open Source AI Landscape: This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through open source AI, ML and DL projects, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 140
+Name : sort-github-user-repos
+Description : :seat: Sort GitHub repositories by stars for user.
+Stars : 7
+Name : aswf-landscape
+Description : 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+Stars : 36
+Name : sort-awesome-go-by-stars
+Description : This is a tool to sort the software listed in "awesome go" by the number of stars
+Stars : 2
+Name : stars-sorts
+Description : github stars sorts
+Stars : 0
+Name : sort-tabs-by-github-stars
+Description : Sort tabs by GitHub stars
+Stars : 0
+Name : gh-repos-sorter
+Description : Sort GitHub repositories by stars
+Stars : 0
+Name : Political-Party-0.1
+Description : A game about sorting stars
+Stars : 0
+Name : GithubSearchAPI
+Description : Search repositories by name sorted by stars
+Stars : 0
+Name : awesome-stars
+Description : auto gen stars list sort by language
+Stars : 1
+Name : mobile-code-challenge-solution-flutter
+Description : Listing Github Repos sorted by stars
+Stars : 0
+Name : pwc
+Description : Papers with code. Sorted by stars. Updated weekly.
+Stars : 0
+Name : hugo_stars
+Description : Auto generated list of Hugo themes sorted by Github stars
+Stars : 0
+Name : enstars-outfit-sorter
+Description : Tool for sorting and planning outfit-making in Ensemble Stars.
+Stars : 1
+Name : repo-explorer
+Description : Explore Github Repos. Sort By Stars. Search by Description
+Stars : 0
+Name : Stellar_abudance_trees
+Description : Sorting stars in phylogenetic trees using their chemicall abundance information
+Stars : 0
+Name : GitHubRepositories
+Description : iOS App to list swift repositories sorted by stars
+Stars : 0
+Name : GitHub-Android-Example
+Description : Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+Stars : 3
+Name : Political-Party
+Description : Game app about sorting stars by color. If the player is unable to sort fast enough, everything explodes.
+Stars : 0
+Name : go-popular-repos
+Description : Go webapp to list repos sorted by stars written with Gin
+Stars : 1
+Name : Food-Sorting-Android-App
+Description : Sorts food using a guiding stars algorithm to categorize foods as "good" or "bad", android app
+Stars : 0
+Name : go-githubapiv4query-example
+Description : GitHub API v4 on Go (oauth2 and githubv4) - sort repo by stars example 
+Stars : 0
+Name : robot_space_shooter
+Description : Not many robots, neither stars, but it's sort of a shooter.
+Stars : 0

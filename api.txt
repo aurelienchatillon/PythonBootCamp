@@ -1,0 +1,100 @@
+grit : **Grit is no longer maintained. Check out libgit2/rugged.** Grit gives you object oriented read/write access to Git repositories via Ruby.
+merb-core : Merb Core: All you need. None you don't.
+rubinius : The Rubinius Language Platform
+god : Ruby process monitor
+jsawesome : Awesome JSON
+jspec : A JavaScript BDD Testing Library
+exception_logger : Unmaintained. Sorry.
+ambition : include Enumerable — Unmaintained
+restful-authentication : inactive project
+attachment_fu : Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.
+microsis : SUPER OLD STUFF
+s3 : psuedo s3 protocol for mozilla browsers
+taboo : The solution for tabitus of the browser 
+foxtracs : firefox trac integration
+fotomatic : Flash photo widget prototype - hacked at last SHDH of 2007
+glowstick : A realtime, OpenGL graphing library for Ruby
+starling 
+ merb-more : Merb More: The Full Stack. Take what you need; leave what you don't.
+thin : A very fast & simple Ruby web server
+resource_controller : Rails RESTful controller abstraction plugin.
+markaby : Markaby patched to run on rails 2.0.2
+enum_field 
+ subtlety : Subtlety: SVN => RSS, hAtom => Atom
+zippy : Zippy lil’ zipcode lib.
+cache_fu : Ghost from Christmas past. Unmaintained.
+phosphor :  A ruby library to inexpensively emit runtime events via Dtrace
+sinatra : (offically at github.com/sinatra/sinatra) Classy web-development dressed in a DSL
+gsa-prototype : Prototype/Javascript wrapper for the Google Search Appliance Search Protocol. Fancy cross-domain JSON support included.
+duplikate : Syncs one directory to another (example: a git project to an svn repo)
+lazy_record : Proof of concept Lazy-Loading for ActiveRecord. Inspired by the 'kickers' of Ambition.
+gsa-feeds : A Ruby wrapper for the Google Search Appliance Feeds Protocol
+votigoto : Ruby API wrapper for the TiVoToGo protocol. Use it to access a list of recorded shows and programs on your Tivo.
+mofo : Mofo was a fast and simple microformat parser, based on a concise DSL and Hpricot. No longer maintained.
+xhtmlize : Rails helper to XHTML-ize chunks of user submitted HTML. For the standardista in all of us
+ruby-git : Ruby/Git is a Ruby library that can be used to create, read and manipulate Git repositories by wrapping system calls to the git binary.
+bmhsearch : Fast string searcher, useful for multi-part post parsing
+mofo : Mofo is a fast and simple microformat parser, based on a concise DSL and Hpricot.
+simply_versioned : A simple, non-invasive, approach to versioning ActiveRecord models
+gchart : GChart exposes the Google Chart API (http://code.google.com/apis/chart) via a friendly Ruby interface. It can generate the URL for a given chart (for webpage use), or download the generated PNG (for offline use).
+schemr : A DSL for creating schema documents in ruby
+calais : A Ruby interface to the Open Calais API (http://opencalais.com)
+chronic : Chronic is a pure Ruby natural language date parser.
+git-wiki : A quick & dirty git-powered Sinatra wiki
+signal-wiki : The easy to use rails wiki
+ruby-on-rails-tmbundle : Ruby on Rails TextMate bundle [Learn it with PeepCode - http://peepcode.com/products/textmate-for-rails-2]
+low-pro-for-jquery : A jQuery plugin version of the Low Pro behavior framework.
+merb-core : Merb Core: All you need. None you don't.
+dst : todo-list manager I wrote back in 2008 with the help of Gregory Brown in order to learn Ruby and TDD
+yaws : YAWS is an erlang web server
+yaws : YAWS is an erlang web server
+tasks : Some more or less useful rake tasks. Includes tasks to work with git-cvs, convert an Atom collection to a blog, post to an AtomPub server and more.
+ruby-on-rails-tmbundle : Ruby on Rails TextMate bundle [master branch is svn trunk; patches to drnicwilliams@gmail.com]
+amazon-ec2 : WARNING : You probably don't want this code. Its archived and ancient and probably doesn't work. Try the official AWS Ruby SDK instead.
+merblogger : A Merb Blogging &amp; Publishing Platform using Merb, DataMapper, haml and jQuery.
+merbtastic : Merb + Webgen CMS system that has dynamic routing, Nginx config and static site generation with haml/sass/erb/... support.
+alogr : AlogR is a threadsafe non-blocking asynchronous configurable logger for Ruby.
+autozest : AutoZest is an autotest addon that: * automated growl installation * generation of .autotest with growl & autozest config * generation of .autozest.yml config file * autozest.sqlite3 database file for pulling random messages based on severity
+rnginx : Command line utility and library for working with Nginx configuration scripts.
+sequel : Sequel ORM
+simply_versioned : A simple, non-invasive, approach to versioning ActiveRecord models
+switchpipe : SwitchPipe is a backend process manager and HTTP proxy that makes (especially Ruby) web app deployment simple. NOW OBSOLETE. DO NOT USE.
+arc : My arc repo
+ebay4r : eBay4R is a Ruby wrapper for eBay's Web Services SOAP API
+merb-plugins : Merb Plugins: Even more modules to hook up your Merb installation
+ram : Ruby Asset Manager
+ambitious_activeldap : Ambition adapter for ActiveLdap
+fitter_happier : A Rails Plugin for adding a simple health check to your application
+oebfare : my personal blog written with django
+credit_card_tools : Tools for processing credit cards on the command line
+rorem : Rorem is a random data generator
+braid : Simple tool to help track vendor branches in a Git repository.
+uploadcolumn : UploadColumn is no longer maintained, check out CarrierWave for an alternative
+ruby-on-rails-tmbundle : Ruby on Rails TextMate bundle [master branch is svn trunk; patches to drnicwilliams@gmail.com]
+rack-mirror : OUTDATED mirror of Rack's darcs repository, use github.com/chneukirchen/rack
+coset-mirror : (experimental) Mirror of the coset darcs repository
+javascript-unittest-tmbundle : JavaScript Unit Test TextMate Bundle [for prototype's unittest.js library]
+eycap : Engine Yard specific capistrano recipes
+gitsum : basic darcsum feelalike for Git
+sequel-model : Sequel::Model (No longer working on this project)
+god : Ruby process monitor
+blerb-core : blerb running on merb-core
+django-mptt : utilities for implementing a modified pre-order traversal tree in django
+bus-scheme : a Scheme written in Ruby, but implemented on the bus!
+javascript-bits : Useful pieces of JavaScript.  Some old, some new.
+groomlake : Ruby parsers for some Adobe file formats.
+forgery : Easy and customizable generation of forged data.
+ambitious-sphinx : Ambition adapter for Sphinx
+soup : I suppose it's a document database. Or a tuple store. But really, it's just data sloshing around, waiting to be used.
+rails : Ruby on Rails
+backpacking : An Io web framework of sorts
+capsize : A Capistrano extension for managing and running your app on Amazon EC2.
+starling : Starling Message Queue
+ape : The Atom Protocol Exerciser
+awesomeness : Collective Idea's Awesomeness.  A collection of useful Rails bits and pieces.
+audited : Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.
+acts_as_geocodable : Simple geocoding for Active Record models
+acts_as_money : an Active Record plugin that makes it easier to work with the money gem
+calendar_builder 
+ clear_empty_attributes : When Active Record objects are saved from a form, empty fields are saved as empty strings instead of nil.  This kills most validations.
+css_naked_day : A Rails plugin that disables all CSS on CSS Naked Day
